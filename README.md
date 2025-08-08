@@ -4,8 +4,7 @@ This project is an **interactive dashboard** built with Streamlit to analyze mar
 It helps identify the most profitable and efficient marketing channels by exploring metrics such as ROI, CTR, Conversion Rate, Engagement Score, and Acquisition Cost.
 
 🔗 Demo Aplikasi
-Kunjungi aplikasi Streamlit:  
-👉 [Marketing Campaign Analysis](https://final-project-da-marketing-campaign-analysis-xqgwxrq8zvuz9ojat.streamlit.app)
+Kunjungi aplikasi Streamlit: [Marketing Campaign Analysis](https://final-project-da-marketing-campaign-analysis-xqgwxrq8zvuz9ojat.streamlit.app)
 
 ---
 
